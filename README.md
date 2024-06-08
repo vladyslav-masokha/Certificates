@@ -1,4 +1,4 @@
-# :computer:Certificate Repository
+# :computer:Certificate Repository:computer:
 
 This repository contains various certificates earned by Vladyslav Masokha.
 
