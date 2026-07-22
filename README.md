@@ -1,31 +1,17 @@
-# :computer:Certificate Repository:computer:
+# Certificate Repository
 
-This repository contains various certificates earned by Vladyslav Masokha.
+Certificates earned by Vladyslav Masokha.
 
 ## Certificates
 
-1. [Introduction to Python Sololearn](Introduction%20Python%20Sololearn%20-%20Vladyslav%20Masokha.pdf) - Certificate from Sololearn for Introduction to Python.
-
-2. [Git для розподіленої розробки програмного забезпечення](Prometheus%2C%20_Git%20для%20розподіленої%20розробки%20програмного%20забезпечення_%20-%20Vladyslav%20Masokha%20.pdf) - Git certificate from Prometheus.
-
-3. [VladyslavMasokha-CPA Programming Certificate](VladyslavMasokha-CPA%20-%20Programmin-certificate.pdf) - C++ certificate from Cisco.
-
-4. [Introduction to C++ Sololearn](Introduction%20C++%20Sololearn%20-%20Vladyslav%20Masokha.pdf) - Certificate from Sololearn for Introduction to C++.
-
-5. [Hillel, Front End Pro](Hillel%2C%20Front%20End%20Pro%20-%20Vladyslav%20Masokha.pdf) - Certificate from Hillel for Front End Pro.
-  
-6. [SoloLearn HTML Certificate](SoloLearn%20HTML%20-%20Certificate.pdf) - Certificate from SoloLearn for HTML.
-
-7. [SoloLearn JAVASCRIPT Certificate](SoloLearn%20JAVASCRIPT%20-%20Certificate.pdf) - Certificate from SoloLearn for JavaScript.
-
-8. [GoIT HTML Certificate](GoIT%20HTML%20-%20Certificate.pdf) - Certificate from GoIT for HTML.
-
-9. [VladyslavMasokha-Кібербезпека Certificate](VladyslavMasokha-Кібербезпека-certificate.pdf) - Certificate for cybersecurity.
-
-10. [JavaScript Fundamentals](certificates/javascript-fundamentals-vladyslav-masokha.pdf)
-
-11. [Excel — Santander Open Academy](certificates/excel-santander-open-academy-vladyslav-masokha.pdf)
-
-12. [Data Protection and Privacy for All](certificates/data-protection-and-privacy-vladyslav-masokha.pdf)
-
-13. [Excelkurs für Einsteiger](certificates/excelkurs-fuer-einsteiger-vladyslav-masokha.pdf)
+1. [Hillel — Front End Pro](certificates/hillel-front-end-pro-vladyslav-masokha.pdf)
+2. [JavaScript Fundamentals](certificates/javascript-fundamentals-vladyslav-masokha.pdf)
+3. [Git for Distributed Software Development](certificates/prometheus-git-vladyslav-masokha.pdf)
+4. [Cisco Programming Certificate](certificates/cisco-programming-vladyslav-masokha.pdf)
+5. [GoIT HTML](certificates/goit-html-vladyslav-masokha.pdf)
+6. [Introduction to Python — Sololearn](certificates/sololearn-introduction-to-python-vladyslav-masokha.pdf)
+7. [Introduction to C++ — Sololearn](certificates/sololearn-introduction-to-cpp-vladyslav-masokha.pdf)
+8. [Cybersecurity](certificates/cybersecurity-vladyslav-masokha.pdf)
+9. [Excel — Santander Open Academy](certificates/excel-santander-open-academy-vladyslav-masokha.pdf)
+10. [Excelkurs für Einsteiger](certificates/excelkurs-fuer-einsteiger-vladyslav-masokha.pdf)
+11. [Data Protection and Privacy for All](certificates/data-protection-and-privacy-vladyslav-masokha.pdf)
