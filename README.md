@@ -14,16 +14,10 @@ This repository contains various certificates earned by Vladyslav Masokha.
 
 5. [Hillel, Front End Pro](Hillel%2C%20Front%20End%20Pro%20-%20Vladyslav%20Masokha.pdf) - Certificate from Hillel for Front End Pro.
   
-6. [RoboCode Java Level 1 Certificate](RoboCode%20Java%20Level%201%20-%20Certificate.pdf) - Certificate from RoboCode for Java Level 1.
+6. [SoloLearn HTML Certificate](SoloLearn%20HTML%20-%20Certificate.pdf) - Certificate from SoloLearn for HTML.
 
-7. [RoboCode Start 2.0 Certificate](RoboCode%20Start%202.0%20-%20Certificate.pdf) - Certificate from RoboCode for Start 2.0.
+7. [SoloLearn JAVASCRIPT Certificate](SoloLearn%20JAVASCRIPT%20-%20Certificate.pdf) - Certificate from SoloLearn for JavaScript.
 
-8. [RoboCode Web JavaScript Certificate](RoboCode%20Web.JavaScript%20-%20Certificate.pdf) - Certificate from RoboCode for Web JavaScript.
+8. [GoIT HTML Certificate](GoIT%20HTML%20-%20Certificate.pdf) - Certificate from GoIT for HTML.
 
-9. [SoloLearn HTML Certificate](SoloLearn%20HTML%20-%20Certificate.pdf) - Certificate from SoloLearn for HTML.
-
-10. [SoloLearn JAVASCRIPT Certificate](SoloLearn%20JAVASCRIPT%20-%20Certificate.pdf) - Certificate from SoloLearn for JavaScript.
-
-11. [GoIT HTML Certificate](GoIT%20HTML%20-%20Certificate.pdf) - Certificate from GoIT for HTML.
-
-12. [VladyslavMasokha-Кібербезпека Certificate](VladyslavMasokha-Кібербезпека-certificate.pdf) - Certificate for cybersecurity.
+9. [VladyslavMasokha-Кібербезпека Certificate](VladyslavMasokha-Кібербезпека-certificate.pdf) - Certificate for cybersecurity.
