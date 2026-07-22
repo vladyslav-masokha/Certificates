@@ -21,3 +21,11 @@ This repository contains various certificates earned by Vladyslav Masokha.
 8. [GoIT HTML Certificate](GoIT%20HTML%20-%20Certificate.pdf) - Certificate from GoIT for HTML.
 
 9. [VladyslavMasokha-Кібербезпека Certificate](VladyslavMasokha-Кібербезпека-certificate.pdf) - Certificate for cybersecurity.
+
+10. [JavaScript Fundamentals](certificates/javascript-fundamentals-vladyslav-masokha.pdf)
+
+11. [Excel — Santander Open Academy](certificates/excel-santander-open-academy-vladyslav-masokha.pdf)
+
+12. [Data Protection and Privacy for All](certificates/data-protection-and-privacy-vladyslav-masokha.pdf)
+
+13. [Excelkurs für Einsteiger](certificates/excelkurs-fuer-einsteiger-vladyslav-masokha.pdf)
